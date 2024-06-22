@@ -33,7 +33,7 @@
     "astro-compress": "^2.1.5",
     "clsx": "^2.0.0",
     "dracula-prism": "^2.1.13",
-    "jose": "^4.15.4",
+    "jose": "^4.15.5",
     "js-cookie": "^3.0.5",
     "lucide-react": "^0.288.0",
     "nanoid": "^5.0.2",
